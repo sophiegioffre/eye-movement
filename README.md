@@ -1,8 +1,17 @@
-# eye-movement
-# DESCRIPTION
-Webpage with two eyes that follow mouse movement. MIT xPro exercise in manipulating styles with JavaScript and CSS.
+# Eye Movement Exercise
 
-# LICENSE
+## DESCRIPTION
+This project is based on an exercise from MIT xPro Full-Stack Development course, and its foucus is on manipulating styles with JavaScript and CSS. When viewed in a browser, a webpage with depicting two "eyes" is displayed. The "eyes" follow the movement of the mouse. 
+
+## HOW TO RUN
+Clone all files in this repo to your local drive. Then open the index.html file in a browser, perferibly Google Chrome. Move your mouse to make the "eyes" move. 
+
+## ROAD MAP TO FUTURE IMPROVEMENTS
+-Add a button that, when clicked, generates new "eyes" randomly accross the page that also respond to mouse movement.
+OR
+-Add a Cheshire Cat inspired grin to complete the visage. Change the background to look like the Cheshire Cat's magenta scriped coat.
+
+## LICENSE
 MIT License
 
 Copyright (c) 2020 John Williams
