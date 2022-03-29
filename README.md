@@ -8,6 +8,7 @@ Clone all files in this repo to your local drive. Then open the index.html file 
 
 ## ROAD MAP TO FUTURE IMPROVEMENTS
 •	Add a button that, when clicked, generates new "eyes" randomly across the page that also respond to mouse movement.
+<br>
 •	Add a Cheshire Cat inspired grin to complete the visage. Change the background to look like the Cheshire Cat's magenta striped coat.
 
 
